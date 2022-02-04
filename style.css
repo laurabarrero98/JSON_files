@@ -1,0 +1,7 @@
+#fondo{
+    position: absolute;
+}
+#texto{
+    position: relative;
+}
+.bar-wrapper { height: 60px; }
